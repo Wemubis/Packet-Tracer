@@ -1,4 +1,4 @@
-# Company Network Project #6
+# Company Network Design
 
 ## Description
 
