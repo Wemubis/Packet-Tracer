@@ -6,6 +6,8 @@ This project is inspired by [Gurutech](https://www.youtube.com/@gurutechnetworks
 
 In this repository, you will find the configuration files, the network topology as a `.png` image, and a brief explanation of the architecture used.
 
+![`6thNetworkingProject.png`](./ConfigFiles/6thNetworkingProject.png)
+
 <br>
 
 ## Network Topology
