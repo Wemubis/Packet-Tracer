@@ -26,7 +26,7 @@ The network is divided into multiple VLANs across three floors:
   - ICT (VLAN 50) - `172.16.3.0/25`
   - Server Room (VLAN 60) - `172.16.3.128/28`
 
-The network is interconnected using **Layer 2 (L2) switches** and **Layer 3 (L3) switches**, with **OSPF-based routing** to ensure connectivity between VLANs and core routers.
+The network is interconnected using **L2 switches** and **L3 switches**, with **OSPF-based routing** to ensure connectivity between VLANs and core routers.
 
 <br>
 
